@@ -80,4 +80,12 @@ Using an iterative approach, we have successfully implemented the core features 
 
 Users can download **Librynium** on both iOS and Android devices, giving them the convenience of using the program on their preferred device. To download, ensure that your device is connected to the internet and unlocked. Simply open the **App Store** or **Google Play**, search for "**Librynium**," and select the app from the search results. Once located, click **Download** or **Install** to begin the process. After the download is complete, the **Librynium** app icon will appear on your home screen. Tap the icon to open the app and start using the full range of features, including book management, borrowing, and more. Stay tuned for future updates on the mobile app release.
 
+## Version Control and Bug Tracker Access
+
+For both developers and users, version control and bug-tracking tools are essential for managing the project effectively. These platforms allow developers to collaborate seamlessly, providing them access to the most up-to-date source code in one centralized location. Developers can track changes, submit updates, and maintain a complete history of the project’s evolution.
+
+These resources are invaluable for users who want to explore the project’s documentation and stay informed about new releases. Version control ensures that users can always access the latest versions of the software, making it easy to benefit from new features, improvements, and bug fixes. Furthermore, users can actively participate in the project’s growth by reporting bugs, suggesting features, and following the resolution of issues through the Bug Tracker.
+
+Ultimately, version control and bug tracking create a collaborative environment where both developers and users can contribute to the system's continuous enhancement, ensuring an adaptable and flexible development process.
+
 
