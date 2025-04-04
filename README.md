@@ -1,8 +1,27 @@
 # Librynium - Online Library System
 
 **Librynium** is an open-source project designed to provide an efficient, intuitive, and scalable library management system for both physical and digital libraries. With a focus on user-friendly interfaces, seamless book management, and easy book borrowing, **Librynium** aims to meet the needs of libraries of all sizes.
-## Technologies Used:
-- Frontend: HTML, CSS, JavaScript
+# System-Related Information
+
+The **Librynium** Online Library Management System is a simple, open-source web application designed to manage library resources efficiently. Below is an overview of the key system-related information.
+
+## 1. Architecture
+The system follows a **Client-Side Architecture** where:
+- The **frontend** is built using **HTML**, **CSS**, and **JavaScript** to create the user interface and manage user interactions.
+- The system is designed to run on a static website with no server-side backend, making it suitable for smaller-scale implementations.
+
+## 2. Technologies Used
+- **Frontend**: HTML for structure, CSS for styling, and JavaScript for interactivity and dynamic content updates.
+- **No Backend**: All functionality is handled client-side without a server-side backend.
+
+## 3. Features
+- **Book Search**: Users can search for books by title or author.
+- **Book Borrowing**: Allows users to mark books as borrowed, with basic data tracking.
+- **Reservation System**: Users can reserve books that are currently unavailable.
+
+## 4. Deployment
+The application is designed to be deployed on any static hosting platform such as **GitHub Pages** or **Netlify**.
+
 
 ## But First, Look Around: List All Projects and Their Links
 
