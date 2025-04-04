@@ -138,4 +138,58 @@ These communication channels ensure that **Librynium** remains a collaborative, 
 - **Security**: Developers must ensure the security of the system. This includes securing user data, implementing proper authentication, and avoiding security vulnerabilities in the code.
 - **Contributing to Documentation**: Contributions are welcome not only in code but also in improving the system’s documentation. Well-documented code and guides make it easier for others to contribute and understand the system.
 
+## Documentation
+
+At **Librynium**, we understand the importance of clear and comprehensive documentation, especially for open-source projects. As we’re still in the early stages of development, our documentation may not yet be as extensive as it will eventually be. However, it provides a solid foundation for understanding the purpose and features of the system, and we're committed to updating it as the project evolves.
+
+Currently, **Librynium** enables users to efficiently manage library resources, borrow books, and keep track of due dates. While the documentation provides basic usage instructions, it will grow as we continue to add more features such as advanced search, fine management, and digital content support. As we progress, we will also include more detailed technical documentation for contributors, covering the code structure, best practices, and guidelines for making contributions.
+
+Being new to open-source, we value feedback from the community, and our documentation will be continuously updated by moderators and contributors. We encourage developers to contribute to enhancing the documentation and help us improve it.
+
+## Frequently Asked Questions (FAQ)
+
+**How do I borrow a book from the library?**  
+Borrowing a book is easy! Simply browse the catalog, select the book you'd like to borrow, and click the "Borrow" button. You'll receive a confirmation of your borrowing transaction along with the due date for return.
+
+**How can I cancel my book reservation?**  
+If you need to cancel a reservation, simply go to your account dashboard, find the reservation, and click the "Cancel" button. You must cancel at least 24 hours before the reserved book is available for pick-up.
+
+**What payment methods are supported?**  
+At the moment, **Librynium** supports several payment options for overdue fines, including credit cards and digital wallets. We’re working to expand these options in the future.
+
+**Can I view my borrowing history?**  
+Yes! You can view your entire borrowing history, including past due books, fines, and reservations by navigating to your account page under the "Borrowing History" section.
+
+**Can I access the system from my mobile device?**  
+Yes, the system is mobile-friendly and accessible on both Android and iOS devices through the web. We’re also planning to develop a dedicated mobile app for easier access.
+
+**Why are some books unavailable for borrowing?**  
+Certain books may be unavailable due to being checked out by other users, undergoing maintenance, or awaiting restocking. You can reserve unavailable books, and you’ll be notified when they are available again.
+
+**How can I contribute to the **Librynium** project?**  
+We welcome contributions from developers! You can start by forking the repository, making improvements, and submitting a pull request. Be sure to follow the contribution guidelines and communicate via the issue tracker to ensure smooth collaboration.
+
+## Developer Documentation
+
+Creating effective documentation for contributors is essential, especially as this project grows. As developers, we will ensure that the code is well-documented and that the development process is clear for new contributors. The **Librynium** project will have a dedicated section for developers that includes detailed explanations of the architecture, codebase, and best practices for submitting changes.
+
+We will organize the technical documentation using **wikis** and a **design document** that provides a roadmap for contributors. All contributors are encouraged to help improve the documentation, ensuring that **Librynium** remains easy to contribute to and scalable as the project evolves.
+
+## Demos, Screenshots, Videos, and Example Output
+
+We will provide demos, screenshots, and example outputs to showcase the **Librynium** system's functionality. These resources will help both users and developers better understand how the system works and how to contribute effectively.
+
+## Hosting
+
+**Librynium** is an open-source project hosted on **GitHub**. Developers and users can access the project repository for downloading the system, reporting issues, and contributing new features. We also plan to host the **Librynium** system on cloud platforms for easy access and scalability.
+
+## Code of Conduct
+
+As contributors to **Librynium**, we promise to maintain an environment that is welcoming, respectful, and inclusive of everyone. We expect all participants to adhere to the project's code of conduct, which includes respectful communication and an open-minded approach to diverse perspectives.
+
+We have a zero-tolerance policy for harassment of any kind, including but not limited to, race, gender, sexual orientation, disability, and experience level. Any violations of the code of conduct should be reported immediately to the project maintainers.
+
+## Announcing
+
+The **Librynium** project will have announcements for new releases, updates, and important changes. These announcements will be featured prominently on the project's main page and communicated through email or social media channels as needed. We encourage all contributors and users to stay informed by following these updates.
 
