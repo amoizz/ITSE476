@@ -65,3 +65,19 @@ Follow these steps to get **Librynium** up and running on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/librynium.git
+
+ ## Development Status
+
+**ACTIVE DEVELOPMENT ▶️** - The project is currently in the **beta** phase of development. The team is continuously creating, testing, and optimizing new features. Regular meetings and progress tracking ensure that we stay on track with the project timelines and objectives.
+
+Using an iterative approach, we have successfully implemented the core features such as user registration, book catalog management, and borrowing system. As each function is completed, it is released into the repository for testing and feedback.
+
+**Librynium** encourages collaboration and contributions from developers and the open-source community. We are always looking for new ideas and improvements to make the system better. Your feedback and contributions will be crucial for the full implementation of the system and its continued growth.
+
+## Downloads
+
+📖 **How to Download and Run the Project on Your Device?**
+
+Users can download **Librynium** on both iOS and Android devices, giving them the convenience of using the program on their preferred device. To download, ensure that your device is connected to the internet and unlocked. Simply open the **App Store** or **Google Play**, search for "**Librynium**," and select the app from the search results. Once located, click **Download** or **Install** to begin the process. After the download is complete, the **Librynium** app icon will appear on your home screen. Tap the icon to open the app and start using the full range of features, including book management, borrowing, and more. Stay tuned for future updates on the mobile app release.
+
+
