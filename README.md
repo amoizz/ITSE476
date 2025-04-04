@@ -95,7 +95,7 @@ Effective communication is key to the success of any project. Below are the vari
 ### Bug/Issue Tracker 🐞
 The **Bug/Issue Tracker** serves as the main platform for reporting bugs, submitting feature requests, and raising any concerns related to **Librynium**. This is where you can track ongoing issues, discuss potential solutions, and contribute to the project’s continuous improvement.
 
-- **URL**: [Librynium Issue Tracker](https://github.com/your-username/librynium/issues)
+- **URL**: [Librynium Issue Tracker](https://github.com/amoizz/ITSE476/issues))
 - **Guidelines**: Before submitting a new issue, please search the existing issues to check if your concern has already been raised. Provide detailed steps to reproduce the issue, describe the expected behavior, and include relevant information about your environment to assist the developers.
 
 ### Discussion Forum 💬
