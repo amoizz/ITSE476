@@ -1,7 +1,7 @@
-The Online Library System is an evolution of the foundational concepts explored in the ITSE305 projec. It is designed to be an open-source project where developers from around the world can contribute,
-enhance, and adapt the system to meet the needs of diverse users. This project is an extension of the work done in the ITSE305 project, which laid the groundwork for building fundamental data management systems. 
-With Online Library System, we are taking that foundation and advancing it into a fully functional library management system that can operate in a real-world environment.
-
-The development process for Online Library System follows a structured plan, with a clear roadmap that focuses on addressing current challenges and improving existing features. As we progress, 
-system enhancements will concentrate on optimizing the book catalog, streamlining the borrowing and returning process, improving user experience, and enhancing overall system security. 
-The goal of Online Library System is to exceed user expectations by offering an intuitive, efficient, and scalable library management solution that caters to both physical and digital library needs.
+Librynium is an open-source project designed to be continuously improved by the developer community. This project is an evolution of the ITSE305 project, 
+where we laid the foundation for a basic data management system. Building on this experience, Librynium introduces more advanced functionalities like 
+comprehensive book management, borrowing and returning systems, user accounts, and more.  We have a well-defined plan for implementing these features, 
+and we are now focused on integrating them into a real-world environment.
+The upcoming system enhancements will prioritize improving the search functionality, integrating digital books, optimizing user experience 
+for both patrons and administrators, and incorporating reporting tools for library staff. The new system aims to go beyond traditional library systems, 
+providing an efficient and modern tool that can adapt to a variety of libraries, from educational institutions to public libraries.
