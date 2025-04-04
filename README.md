@@ -20,7 +20,7 @@ The system follows a **Client-Side Architecture** where:
 - **Reservation System**: Users can reserve books that are currently unavailable.
 
 ## 4. Deployment
-The application is designed to be deployed on any static hosting platform such as **GitHub Pages** or **Netlify**.
+The application is designed to be deployed on any static hosting platform such as **GitHub Pages** .
 
 
 ## But First, Look Around: List All Projects and Their Links
