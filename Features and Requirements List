@@ -1,1 +1,32 @@
+## Features and Requirements List
 
+### **Features**
+
+- **User Registration & Authentication**: Secure user registration and login for patrons and administrators.
+- **Book Catalog**: A comprehensive catalog of books available for borrowing.
+- **Advanced Search**: Ability to search books by title, author, genre, and other attributes.
+- **Book Borrowing & Returning System**: Allows users to borrow and return books, with automatic tracking of due dates.
+- **Reservation System**: Users can reserve unavailable books and get notified when they are available.
+- **Fine Management**: Automated fine calculation for overdue books, with online payment options.
+- **Admin Panel**: Admins can manage users, books, borrowing transactions, and generate reports.
+- **Notifications**: Automated notifications for overdue books, reserved book availability, and due dates.
+- **Reports Generation**: Comprehensive reports on book loans, overdue books, and library activity for admins.
+
+### **Requirements**
+
+- **User-Friendly Interface**: The system should have a clean, intuitive interface accessible from both desktop and mobile devices.
+- **Seamless Book Management**: The system should allow easy addition, removal, and updating of book details.
+- **Responsive Design**: Mobile and tablet-friendly design to ensure accessibility across all devices.
+- **Secure Authentication**: Secure login and user authentication to protect sensitive user information.
+- **Database**: A relational database system (e.g., MySQL, PostgreSQL) to store user and book data.
+- **Scalability**: The system should handle an increasing number of users, books, and transactions efficiently.
+- **Data Protection**: Ensure sensitive data, including user information and payment details, are securely stored and transmitted.
+- **Multi-Language Support**: Optional feature to support multiple languages for users worldwide.
+  
+## Installation
+
+Follow these steps to get **Librynium** up and running on your local machine:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/librynium.git
