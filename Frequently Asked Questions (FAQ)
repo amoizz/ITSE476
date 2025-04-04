@@ -1,0 +1,23 @@
+
+## Frequently Asked Questions (FAQ)
+
+**How do I borrow a book from the library?**  
+Borrowing a book is easy! Simply browse the catalog, select the book you'd like to borrow, and click the "Borrow" button. You'll receive a confirmation of your borrowing transaction along with the due date for return.
+
+**How can I cancel my book reservation?**  
+If you need to cancel a reservation, simply go to your account dashboard, find the reservation, and click the "Cancel" button. You must cancel at least 24 hours before the reserved book is available for pick-up.
+
+**What payment methods are supported?**  
+At the moment, **Librynium** supports several payment options for overdue fines, including credit cards and digital wallets. We’re working to expand these options in the future.
+
+**Can I view my borrowing history?**  
+Yes! You can view your entire borrowing history, including past due books, fines, and reservations by navigating to your account page under the "Borrowing History" section.
+
+**Can I access the system from my mobile device?**  
+Yes, the system is mobile-friendly and accessible on both Android and iOS devices through the web. We’re also planning to develop a dedicated mobile app for easier access.
+
+**Why are some books unavailable for borrowing?**  
+Certain books may be unavailable due to being checked out by other users, undergoing maintenance, or awaiting restocking. You can reserve unavailable books, and you’ll be notified when they are available again.
+
+**How can I contribute to the **Librynium** project?**  
+We welcome contributions from developers! You can start by forking the repository, making improvements, and submitting a pull request. Be sure to follow the contribution guidelines and communicate via the issue tracker to ensure smooth collaboration.
