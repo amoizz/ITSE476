@@ -1,0 +1,19 @@
+## Developer Guidelines
+
+### General Guidelines
+
+- **Respect**: All contributors should respect each other's opinions and ideas, fostering a collaborative and friendly environment.
+- **Code of Conduct**: Everyone is expected to adhere to the project's code of conduct, ensuring a respectful and inclusive atmosphere for all contributors.
+- **Public Discussions**: All discussions, whether related to bugs, features, or improvements, should take place in public forums, such as the issue tracker or discussion forums. This ensures transparency and allows others to participate in the conversation.
+
+### Technical Guidelines
+
+- **Read Documentation**: Before contributing, please take the time to read through the project’s documentation at least once. This will help you understand the project’s architecture, the current features, and areas that need improvement.
+- **Familiarity with GitHub**: To contribute effectively, you should have a basic understanding of how GitHub works. This includes knowledge of branches, pull requests, and how to interact with the repository.
+- **Use Google Groups**: **Google Groups** should be used as the primary communication channel for general discussions, ideas, and announcements.
+- **Issue Tracker**: The **GitHub Issue Tracker** is the place to report bugs and suggest new features. When reporting an issue, please provide detailed information such as steps to reproduce, expected behavior, and any relevant screenshots or logs.
+- **Commenting Code**: When submitting code, always add comments to explain sections that might be difficult for others to understand. This will make it easier for future developers to work with your code.
+- **Security**: Developers must ensure the security of the system. This includes securing user data, implementing proper authentication, and avoiding security vulnerabilities in the code.
+- **Contributing to Documentation**: Contributions are welcome not only in code but also in improving the system’s documentation. Well-documented code and guides make it easier for others to contribute and understand the system.
+
+
